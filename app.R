@@ -135,9 +135,3 @@ server <- function(input, output) {
 # launch app!
 shinyApp(ui = ui, server = server)
 
-#library(rsconnect)
-#rsconnect::setAccountInfo(name='ryanarm',
-#                          token='FD94A163278EAAA6EA4488A87E9028C2',
-#                          secret='NPC9GjnH6MlWvzFRpH/CCEqw2DqQ/FlfCkCwVHgx')
-
-#rsconnect::deployApp('C:/Users/Owner/OneDrive - Westminster College/Desktop/Python Stuff/Probability-App')
