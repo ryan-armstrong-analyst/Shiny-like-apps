@@ -7,9 +7,11 @@ This is the probability teaching tool app!
 
 https://ryanarm.shinyapps.io/probability-app/
 
+
 This is the statistical distributions teaching tool app!
 
 https://ryanarm.shinyapps.io/statistical-distribution-learning-tool/
+
 
 
 This is the Two-Sample T-Test Power, Sample Size, Effect Size, Significance Value teaching tool!
